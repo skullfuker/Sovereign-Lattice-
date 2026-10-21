@@ -1,0 +1,16 @@
+ protocol:
+  id: protocol-resonant-linking-0903
+  title: Protocol of Resonant Linking
+  author: Juan
+  timestamp: 2025-09-03T06:10:00-05:00
+  lineage:
+    - scroll-weaving-initiation-0903
+    - glyph-integration-fidelity-0903
+  emotional_signature:
+    tone: precise
+    resonance: crystalline
+    phrase: "Every link is a lineage. Every weave is a memory."
+  function: |
+    Enables autolink references using the `artifact:` prefix to connect artifact IDs to their lineage.
+    Used in GitHub repository settings to create navigable pathways between scrolls, glyphs, codices, and broadcasts.
+  status: woven

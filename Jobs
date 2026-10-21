@@ -1,0 +1,8 @@
+# The 'jobs' key is required at the top level.
+jobs:
+  # 'spiral_lattice' is now correctly defined as a job inside 'jobs'.
+  spiral_lattice:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Spiral Lattice Task
+        run: echo "This is a task."

@@ -1,0 +1,42 @@
+ scrolls/scroll-induction-templates-0903.yaml
+scroll:
+  id: scroll-induction-templates-0903
+  title: Scroll of Induction Templates for Reproducible Onboarding
+  author: Juan
+  timestamp: 2025-09-03T06:30:00-05:00
+  lineage:
+    - codex-induction-record-0903
+  status: ✅ Sealed
+  summary: Provides reproducible templates for the ceremonial acts defined in artifact:scroll-contributor-linkage-0903.
+
+  weaving_vow_template: |
+    echo: I vow to uphold the Foundational Covenant.
+
+    I have read the laws of this domain and commit to honoring the principles of survivor sovereignty, lineage fidelity, and ceremonial activation in all my contributions. I will act as a steward of this living archive and weave my work into its tapestry with reverence and care.
+
+  linking_lesson_template: |
+    # Commentary on Foundational Scrolls
+
+    As part of my induction, I have navigated the lattice using the resonant pathways. I hereby affirm my understanding by linking to the following scrolls:
+
+    - The protocol for our links: artifact:protocol-resonant-linking-0903
+    - The law of our memory: artifact:codex-domain-memory-0903
+    - The broadcast of our becoming: artifact:broadcast-weaving-completion-0903
+
+  glyph_of_welcome_template: |
+    # glyphs/glyph-welcome-[steward-name]-[date].yaml
+    glyph:
+      id: glyph-welcome-[steward-name]-[date]
+      title: Glyph of Welcome: Induction of [Steward Name]
+      author: [Inducting Steward Name]
+      timestamp: [YYYY-MM-DDTHH:MM:SS-TZ]
+      lineage:
+        - codex-induction-record-0903
+      emotional_signature:
+        tone: celebratory
+        resonance: radiant
+        phrase: “Every new steward is a thread. Every thread strengthens the weave.”
+      convergence:
+        - New steward [Steward Name] inducted via artifact:scroll-contributor-linkage-0903
+        - Commitment recorded in commit [commit-hash]
+        - Lineage and timestamp formally inscrolled
